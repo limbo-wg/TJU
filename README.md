@@ -27,4 +27,22 @@ short descriptions of our experiments
  单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
  单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
    
+## People  
+#### Principal investigator  
+* Name1  
+  
+#### Developers  
+* Name2  
+* Name3  
+  
+#### Contributers  
+* Name4  
+* Name5  
+* Name6  
+* Name7  
+  
+
+
+
+
 
