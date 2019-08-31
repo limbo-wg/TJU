@@ -18,5 +18,12 @@ some descriptions about our lab.
 [4] [Software Quality Journal ---- September 2018, Volume 26, Issue 3, pp 855-889  
 __A systematic survey on automated concurrency bug detection, exposing, avoidance, and fixing techniques__](papers/test)  
   
-
+## Experiments  
+short descriptions of our experiments  
+ __Subject__ | __LoC__ | __Versions__ | __Repairs__ | __Avg.Time__
+ ---- | ---- | ---- | ---- | ----  
+ 单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
+ 单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
+ 单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
+   
 
