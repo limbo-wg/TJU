@@ -42,7 +42,7 @@ short descriptions of our experiments
 * [Name7](/people/test)  
   
   
-TianJin University © 2019
+__TianJin University © 2019__  
   
   
   
