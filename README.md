@@ -29,17 +29,17 @@ short descriptions of our experiments
    
 ## People  
 #### Principal investigator  
-* Name1  
+* [Name1](/people/test)  
   
 #### Developers  
-* Name2  
-* Name3  
+* [Name2](/people/test)  
+* [Name3](/people/test)  
   
 #### Contributers  
-* Name4  
-* Name5  
-* Name6  
-* Name7  
+* [Name4](/people/test)  
+* [Name5](/people/test)  
+* [Name6](/people/test)  
+* [Name7](/people/test)  
   
 
 
