@@ -11,17 +11,17 @@ some descriptions about our lab.
   
 ![img1](http://img3.imgtn.bdimg.com/it/u=2234078919,2544889246&fm=26&gp=0.jpg "img1")
 
-some descriptions of part of lab ---- (1)
+_some descriptions of part of lab ---- (1)_
   <br>
   
 ![img2](http://img3.imgtn.bdimg.com/it/u=2234078919,2544889246&fm=26&gp=0.jpg "img2")
 
-some descriptions of part of lab ---- (2)
+_some descriptions of part of lab ---- (2)_
   <br>
   
 ![img3](http://img3.imgtn.bdimg.com/it/u=2234078919,2544889246&fm=26&gp=0.jpg "img3")  
 
-some descriptions of part of lab ---- (3)
+_some descriptions of part of lab ---- (3)_
   <br>
 
 
