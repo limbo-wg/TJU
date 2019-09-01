@@ -23,14 +23,14 @@ Multithreaded Concurrency Software Defect Prediction Research
 
 <table border="0">
   <tr>
-    <td><img width="100" height="100" src="/img/img.png" alt="img1"></td>
-    <td><img width="100" height="100" src="/img/img.png" alt="img2"></td>
-    <td><img width="100" height="100" src="/img/img.png" alt="img3"></td>
+    <td><div align="center"><img width="100" height="100" src="/img/img.png" alt="img1"></div></td>
+    <td><div align="center"><img width="100" height="100" src="/img/img.png" alt="img2"></div></td>
+    <td><div align="center"><img width="100" height="100" src="/img/img.png" alt="img3"></div></td>
   </tr>
   <tr>
-    <td><i>some descriptions of part of lab ---- (1)</td>
-    <td><i>some descriptions of part of lab ---- (2)</td>
-    <td><i>some descriptions of part of lab ---- (3)</td>
+    <td><div align="center"><i>some descriptions of part of lab ---- (1)</div></td>
+    <td><div align="center"><i>some descriptions of part of lab ---- (2)</div></td>
+    <td><div align="center"><i>some descriptions of part of lab ---- (3)</div></td>
   </tr>
 </table>
 
