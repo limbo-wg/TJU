@@ -28,9 +28,7 @@ some descriptions about our lab.
   <br>
 
 ## Logo
-
-![Logo](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1967269514,1656276583&fm=26&gp=0.jpg "实验室Logo")  
-  <br>
+<div align="center"><img width="300" height="300" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1967269514,1656276583&fm=26&gp=0.jpg" alt="LAB Logo"/></div>
   <br>
   <br>
   <br>
