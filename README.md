@@ -82,5 +82,5 @@ __A systematic survey on automated concurrency bug detection, exposing, avoidanc
   <br>
   <br>
   <br>
-<i><strong>TianJin University © 2019__</strong></i>  
+<i><strong>TianJin University © 2019</strong></i>  
   
