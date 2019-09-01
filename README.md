@@ -1,13 +1,21 @@
 # TJU 312 LAB  
 Multithreaded Concurrency Software Defect Prediction Research  
-    <br>
-    <br>
+  <br>
+  <br>
+  <br>
+  <br>
 ## Descriptions  
 some descriptions about our lab.  
-    <br>
+  <br>
+  <br>
+  <br>
+  <br>
 ## Logo  
 ![Logo](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1967269514,1656276583&fm=26&gp=0.jpg "实验室Logo")  
-        <br><br>
+  <br>
+  <br>
+  <br>
+  <br>
 ## Publications  
 [1] [__自动程序修复方法研究评述[J]__.王赞,郜健,陈翔,傅浩杰,樊向宇.计算机学报.2018(03)](/papers/test)  
   
@@ -17,16 +25,25 @@ some descriptions about our lab.
   
 [4] [Software Quality Journal ---- September 2018, Volume 26, Issue 3, pp 855-889  
 __A systematic survey on automated concurrency bug detection, exposing, avoidance, and fixing techniques__](papers/test)  
-  
+  <br>
+  <br>
+  <br>
+  <br>
 ## Experiments  
 short descriptions of our experiments  
- 
+  <br>
+  <br>
+  <br>
+  <br>
  __Subject__ | __LoC__ | __Versions__ | __Repairs__ | __Avg.Time__
  ---- | ---- | ---- | ---- | ----  
  单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
  单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
  单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
-   
+  <br>
+  <br>
+  <br>
+  <br>
 ## People  
 #### Principal investigator  
 * [Name1](/people/test)  
@@ -40,8 +57,10 @@ short descriptions of our experiments
 * [Name5](/people/test)  
 * [Name6](/people/test)  
 * [Name7](/people/test)  
-  
-  
+  <br>
+  <br>
+  <br>
+  <br>
 __TianJin University © 2019__  
   
   <br>
