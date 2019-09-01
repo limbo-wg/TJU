@@ -8,6 +8,16 @@ Multithreaded Concurrency Software Defect Prediction Research
 some descriptions about our lab.  
   <br>
   <br>
+
+![img1](http://img3.imgtn.bdimg.com/it/u=2234078919,2544889246&fm=26&gp=0.jpg "img1")
+![img2](http://img3.imgtn.bdimg.com/it/u=2234078919,2544889246&fm=26&gp=0.jpg "img2")
+![img3](http://img3.imgtn.bdimg.com/it/u=2234078919,2544889246&fm=26&gp=0.jpg "img3")  
+  <br>
+  
+
+
+  <br>
+  <br>
   <br>
   <br>
 ## Logo  
