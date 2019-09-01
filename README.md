@@ -20,7 +20,9 @@ some descriptions about our lab.
   <br>
   <br>
   <br>
-## Logo  
+
+## Logo
+
 ![Logo](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1967269514,1656276583&fm=26&gp=0.jpg "实验室Logo")  
   <br>
   <br>
