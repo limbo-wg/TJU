@@ -65,7 +65,9 @@ short descriptions of our experiments
   <br>
   <br>
 ## People  
+
 #### Principal investigator  
+
 * [Name1](/people/test)  
   
 #### Developers  
