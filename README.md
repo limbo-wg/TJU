@@ -10,7 +10,8 @@ some descriptions about our lab.
   <br>
   <br>
   
-![img1](/img/img.png "img1")        _some descriptions of part of lab ---- (1)_
+<div align=center>![img1](/img/img.png "img1")</div>
+<div align=center>_some descriptions of part of lab ---- (1)_</div>
   <br><br>
   
 ![img2](/img/img.png "img2")        _some descriptions of part of lab ---- (2)_
