@@ -10,14 +10,16 @@ some descriptions about our lab.
   <br>
   <br>
   
-<div align=center>![img1](/img/img.png "img1")</div>
+<div align=center><img width="150" height="150" src="/img/img.png" alt="img1"></div>
 <div align=center>_some descriptions of part of lab ---- (1)_</div>
   <br><br>
   
-![img2](/img/img.png "img2")        _some descriptions of part of lab ---- (2)_
+<div align=center><img width="150" height="150" src="/img/img.png" alt="img2"></div>
+<div align=center>_some descriptions of part of lab ---- (2)_</div>
   <br><br>
-  
-![img3](/img/img.png "img3")        _some descriptions of part of lab ---- (3)_
+
+<div align=center><img width="150" height="150" src="/img/img.png" alt="img3"></div>
+<div align=center>_some descriptions of part of lab ---- (3)_</div>
   <br><br>
 
 
