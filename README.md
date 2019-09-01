@@ -10,19 +10,13 @@ some descriptions about our lab.
   <br>
   <br>
   
-![img1](/img/img.png "img1")
-
-_some descriptions of part of lab ---- (1)_
+![img1](/img/img.png "img1")        _some descriptions of part of lab ---- (1)_
   <br>
   
-![img2](/img/img.png "img2")
-
-_some descriptions of part of lab ---- (2)_
+![img2](/img/img.png "img2")        _some descriptions of part of lab ---- (2)_
   <br>
   
-![img3](/img/img.png "img3")  
-
-_some descriptions of part of lab ---- (3)_
+![img3](/img/img.png "img3")        _some descriptions of part of lab ---- (3)_
   <br>
 
 
