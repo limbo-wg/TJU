@@ -6,7 +6,7 @@ Multithreaded Concurrency Software Defect Prediction Research
   <br>
   
 ## Descriptions  
-some descriptions about our lab.  
+<i>some descriptions about our lab.</i>  
   <br>
 <div align=center><img width="120" height="120" src="/img/img.png" alt="img1"></div>
 <div align=center><i>some descriptions of part of lab ---- (1)</i></div>
@@ -48,7 +48,7 @@ __A systematic survey on automated concurrency bug detection, exposing, avoidanc
   <br>
   
 ## Experiments  
-short descriptions of our experiments  
+<i>short descriptions of our experiments</i>  
   <br>
   
  __Subject__ | __LoC__ | __Versions__ | __Repairs__ | __Avg.Time__
@@ -82,5 +82,5 @@ short descriptions of our experiments
   <br>
   <br>
   <br>
-__TianJin University © 2019__  
+<i><strong>TianJin University © 2019__</strong></i>  
   
