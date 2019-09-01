@@ -32,9 +32,6 @@ __A systematic survey on automated concurrency bug detection, exposing, avoidanc
 ## Experiments  
 short descriptions of our experiments  
   <br>
-  <br>
-  <br>
-  <br>
  __Subject__ | __LoC__ | __Versions__ | __Repairs__ | __Avg.Time__
  ---- | ---- | ---- | ---- | ----  
  单元格内容  | 单元格内容 | 单元格内容 | 单元格内容 | 单元格内容
@@ -61,9 +58,8 @@ short descriptions of our experiments
   <br>
   <br>
   <br>
+  <br>
+  <br>
+  <br>
 __TianJin University © 2019__  
-  
-  <br>
-  <br>
-  <br>
   
