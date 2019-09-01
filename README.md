@@ -8,19 +8,17 @@ Multithreaded Concurrency Software Defect Prediction Research
 ## Descriptions  
 some descriptions about our lab.  
   <br>
+<div align=center><img width="120" height="120" src="/img/img.png" alt="img1"></div>
+<div align=center>_some descriptions of part of lab ---- (1)_</div>
   <br>
   
-<div align=center><img width="150" height="150" src="/img/img.png" alt="img1"></div>
-<div align=center>_some descriptions of part of lab ---- (1)_</div>
-  <br><br>
-  
-<div align=center><img width="150" height="150" src="/img/img.png" alt="img2"></div>
+<div align=center><img width="120" height="120" src="/img/img.png" alt="img2"></div>
 <div align=center>_some descriptions of part of lab ---- (2)_</div>
-  <br><br>
+  <br>
 
-<div align=center><img width="150" height="150" src="/img/img.png" alt="img3"></div>
+<div align=center><img width="120" height="120" src="/img/img.png" alt="img3"></div>
 <div align=center>_some descriptions of part of lab ---- (3)_</div>
-  <br><br>
+  <br>
 
 
 
